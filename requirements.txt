@@ -1,0 +1,4 @@
+discord-webhook
+requests
+flask
+flask-restful

